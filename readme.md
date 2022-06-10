@@ -20,8 +20,11 @@ front end when viewing the site as an admin, as well as code for future plugins
 as I incorporate what I am learning from [tutorials online](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2)
 
 ## Preview ##
-![Homepage](https://i.ibb.co/kM1WtfW/Screen-Shot-2022-06-10-at-13-54-40.png)
+### Home Page ###
+![Home Page](https://i.ibb.co/kM1WtfW/Screen-Shot-2022-06-10-at-13-54-40.png)
 
-![Homepage w/ Menu Open](https://i.ibb.co/8rnQsQd/Screen-Shot-2022-06-10-at-13-55-09.png)
+### Home Page w/ Open Menu ###
+![Home Page w/ Menu Open](https://i.ibb.co/8rnQsQd/Screen-Shot-2022-06-10-at-13-55-09.png)
 
+### First Post ###
 ![First post](https://i.ibb.co/hsPWxxD/Screen-Shot-2022-06-10-at-13-59-34.png)
