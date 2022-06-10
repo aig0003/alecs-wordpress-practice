@@ -18,3 +18,10 @@ At the moment the project is very basic, using a modified version of the [Twenty
 theme, and features a very basic plugin for removing the admin bar from the
 front end when viewing the site as an admin, as well as code for future plugins
 as I incorporate what I am learning from [tutorials online](https://www.youtube.com/watch?v=0l7JTie_6jM&list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2)
+
+## Preview ##
+![Homepage](https://i.ibb.co/kM1WtfW/Screen-Shot-2022-06-10-at-13-54-40.png)
+
+![Homepage w/ Menu Open](https://i.ibb.co/8rnQsQd/Screen-Shot-2022-06-10-at-13-55-09.png)
+
+![First post](https://i.ibb.co/hsPWxxD/Screen-Shot-2022-06-10-at-13-59-34.png)
